@@ -1,0 +1,15 @@
+.myorder-container{
+    height: 90vh;
+    width: 100%;
+    overflow: auto;
+    padding: 40px 20px;
+    background-color: antiquewhite;
+}
+
+.loader-container{
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+}
